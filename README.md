@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+->
+我是傅崇新，就读于淄博职业学院，预计2021年毕业。
+我正在学习java，python。
+我喜欢向大家分享自己心得，也喜欢交朋友。
+我的邮箱是703781841 @qq.com
